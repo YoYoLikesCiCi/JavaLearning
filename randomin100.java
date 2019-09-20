@@ -17,8 +17,8 @@ public static void main(String[] args){
 	    System.out.print(i+1);
 		System.out.print("---");
 		temp += save[i];
-			System.out.print(save[i]);
-			System.out.print("--temp--");
+			System.out.print("times: " + save[i]);
+			System.out.print("   total:");
 			System.out.println(temp);
 	}
     
